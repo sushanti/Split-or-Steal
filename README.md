@@ -1,87 +1,38 @@
-# Project Title
+# Introducing Emotion Expressions into Opponent Modelling for Iterative Prisoner's Dilemma
 
-One Paragraph of project description goes here
+We are interested to study the influence of game states and facial expressions of the player to predict if the opponent will cooperate or defect in the next round of an iterative social dilemma game (inspired by the British television game show Split or Steal).
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+git clone https://github.com/sushanti/Split-or-Steal.git
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
-
 ```
-Give examples
+1. Python 3.0 and above
+2. Jupyter Notebook
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+1. Run code.ipynb notebook
+2. The code uses game_data.csv file as training data
+3. The engineering featured can be viewed in tranformed.csv file
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
+## References
 
 ```
-Give an example
+1. http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p801.pdf
+2. https://www.researchgate.net/publication/322880080_Refactoring_facial_expressions_An_automatic_analysis_of_natural_occurring_facial_expressions_in_iterative_social_dilemma
 ```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Sushanti Prabhu** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
+## Note
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+Any publications that result using the data i.e game_data.csv must cite the following paper:
+Rens Hoegen, Giota Stratou and Jonathan Gratch. Incorporating emotion perception into opponent modeling for social dilemmas. 16th International Conference on Autonomous Agents and Multiagent Systems, Sao Paulo, Brazil 2017.
