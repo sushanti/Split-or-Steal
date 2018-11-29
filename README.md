@@ -1,4 +1,4 @@
-# Introducing Emotion Expressions into Opponent Modelling for Iterative Prisoner's Dilemma
+## Introducing Emotion Expressions into Opponent Modelling for Iterative Prisoner's Dilemma
 
 We are interested to study the influence of game states and facial expressions of the player to predict if the opponent will cooperate or defect in the next round of an iterative social dilemma game (inspired by the British television game show Split or Steal).
 
@@ -28,9 +28,8 @@ git clone https://github.com/sushanti/Split-or-Steal.git
 
 ## Authors
 
-* **Sushanti Prabhu** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+[Sushanti Prabhu](https://github.com/sushanti)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## Note
 
