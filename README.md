@@ -1,4 +1,4 @@
-### EMOTION MODELLING IN PRISONER’S DILEMMA USING FACS AND ML TECHNIQUES
+### EMOTION MODELLING IN ITERATIVE PRISONER’S DILEMMA USING FACS AND ML TECHNIQUES
 
 We are interested to study the influence of game behavior and facial expressions of the player in the previous rounds to predict if the opponent will cooperate or defect in the next round of an iterative social dilemma game (inspired by the British television game show Golden Balls).
 
@@ -21,10 +21,9 @@ git clone https://github.com/sushanti/Split-or-Steal.git
 
 ### References
 
-```
-1. [(Hoegen, Stratou, & Gratch,2017)](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p801.pdf)
-2. [(Stratou, Schalky, Hoegen ,& Gratch,2017)] (https://www.researchgate.net/publication/322880080_Refactoring_facial_expressions_An_automatic_analysis_of_natural_occurring_facial_expressions_in_iterative_social_dilemma)
-```
+1. [Hoegen, Stratou, & Gratch,2017](http://www.ifaamas.org/Proceedings/aamas2017/pdfs/p801.pdf)
+2. [Stratou, Schalky, Hoegen ,& Gratch,2017](https://www.researchgate.net/publication/322880080_Refactoring_facial_expressions_An_automatic_analysis_of_natural_occurring_facial_expressions_in_iterative_social_dilemma)
+
 
 ## Authors
 
@@ -33,5 +32,6 @@ git clone https://github.com/sushanti/Split-or-Steal.git
 
 ## Note
 
-Any publications that result using the data i.e training_data.csv must cite the following paper:
+Any publications that result using training_data.csv must cite the following paper
+
 ```Rens Hoegen, Giota Stratou and Jonathan Gratch. Incorporating emotion perception into opponent modeling for social dilemmas. 16th International Conference on Autonomous Agents and Multiagent Systems, Sao Paulo, Brazil 2017.```
